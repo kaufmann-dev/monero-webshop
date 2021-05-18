@@ -1,0 +1,16 @@
+{
+  "name": "webshop",
+  "version": "1.0.0",
+  "description": "modern webshop for buying goods online",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.4.0",
+    "monero-javascript": "^0.5.3",
+    "tailwindcss": "^2.1.2"
+  }
+}
